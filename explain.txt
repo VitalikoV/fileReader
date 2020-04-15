@@ -1,0 +1,10 @@
+
+
+
+
+
+Action:
+1 - addition
+2 - multiplying
+3 - division
+4 - sum of squares
